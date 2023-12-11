@@ -1,1 +1,1 @@
-print('всем здарова')
+print('my first git repo')
